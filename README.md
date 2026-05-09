@@ -1,2 +1,2 @@
 # Premium-bot
-Ushbu telegram bot codi orqali Telegramda Start va premium sotish mumkin eng asosiysi premium sotish bo'limini arzonlashtirsih maqsadida user-bot ham qo'shamiz. 
+Ushbu telegram bot codi orqali Telegramda Start va premium sotish mumkin eng asosiysi premium sotish bo'limini arzonlashtirsih maqsadida user-bot ham qo'shamiz. bot mukamala va hafsiz bo'lishi uchun tulov tizimnlari masalasida api lardan foydalanamiz Tezchek orqali. albatta .env fayl yasalishi va uning ichiga api, tokrn va id raqamlari kiritilishi ta'minlasni. user botni ushbu botimizga integratsiya qilishni unutmaslik lozim.
